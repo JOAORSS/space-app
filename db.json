@@ -1,0 +1,111 @@
+{
+  "fotos": [
+    {
+      "titulo": "Grande Nuvem de Magalhães",
+      "fonte": "Alura Space",
+      "path": "/images/galeria/Card (1).png",
+      "id": "1",
+      "favorito": false,
+      "tagId": 2
+    },
+    {
+      "titulo": "Via Láctea",
+      "fonte": "Alura Space",
+      "path": "/images/galeria/Card (2).png",
+      "id": "2",
+      "favorito": false,
+      "tagId": 2
+    },
+    {
+      "titulo": "Lua: quarto minguante",
+      "fonte": "Alura Space",
+      "path": "/images/galeria/Card (3).png",
+      "id": "3",
+      "favorito": false,
+      "tagId": 3
+    },
+    {
+      "titulo": "Galáxia de Andrómeda",
+      "fonte": "Alura Space",
+      "path": "/images/galeria/Card (4).png",
+      "id": "4",
+      "favorito": false,
+      "tagId": 2
+    },
+    {
+      "titulo": "Estrela Pistola",
+      "fonte": "Alura Space",
+      "path": "/images/galeria/Card (5).png",
+      "id": "5",
+      "favorito": false,
+      "tagId": 1
+    },
+    {
+      "titulo": "Ilustração",
+      "fonte": "Alura Space",
+      "path": "/images/galeria/Card (6).png",
+      "id": "6",
+      "favorito": false,
+      "tagId": 4
+    },
+    {
+      "titulo": "Galáxia de Andrómeda",
+      "fonte": "Alura Space",
+      "path": "/images/galeria/Card (7).png",
+      "id": "7",
+      "favorito": false,
+      "tagId": 2
+    },
+    {
+      "titulo": "Ilustração",
+      "fonte": "Alura Space",
+      "path": "/images/galeria/Card (8).png",
+      "id": "8",
+      "favorito": false,
+      "tagId": 4
+    },
+    {
+      "titulo": "Céu estrelado",
+      "fonte": "Alura Space",
+      "path": "/images/galeria/Card (9).png",
+      "id": "9",
+      "favorito": false,
+      "tagId": 1
+    },
+    {
+      "titulo": "Ilustração",
+      "fonte": "Alura Space",
+      "path": "/images/galeria/Card (10).png",
+      "id": "10",
+      "favorito": false,
+      "tagId": 1
+    }
+  ],
+  "tags": [
+    {
+      "id": 0,
+      "titulo": "Todas",
+      "selected": false
+    },
+    {
+      "id": 1,
+      "titulo": "Estrelas",
+      "selected": false
+    },
+    {
+      "id": 2,
+      "titulo": "Galáxias",
+      "selected": false
+    },
+    {
+      "id": 3,
+      "titulo": "Luas",
+      "selected": false
+    },
+    {
+      "id": 4,
+      "titulo": "Nebulosas",
+      "selected": false
+    }
+  ]
+}
